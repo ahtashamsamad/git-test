@@ -25,7 +25,7 @@ def test_case_insensitive():
 
 def test_palindrome_with_spaces():
     """Test palindrome containing spaces."""
-    assert is_palindrome("Never Odd") is True
+    assert is_palindrome("taco cat") is True
 
 
 def test_empty_string():
