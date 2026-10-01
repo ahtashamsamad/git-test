@@ -30,4 +30,4 @@ def test_palindrome_with_spaces():
 
 def test_empty_string():
     """Test an empty string."""
-    assert is_palindrome("") is True
+    assert is_palindrome("") is Tru
